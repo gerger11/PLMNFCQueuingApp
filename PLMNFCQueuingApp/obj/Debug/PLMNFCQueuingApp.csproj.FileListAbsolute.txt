@@ -1,0 +1,11 @@
+c:\users\gerard\documents\visual studio 2013\Projects\PLMNFCQueuingApp\PLMNFCQueuingApp\bin\Debug\PLMNFCQueuingApp.exe.config
+c:\users\gerard\documents\visual studio 2013\Projects\PLMNFCQueuingApp\PLMNFCQueuingApp\bin\Debug\PLMNFCQueuingApp.exe
+c:\users\gerard\documents\visual studio 2013\Projects\PLMNFCQueuingApp\PLMNFCQueuingApp\bin\Debug\PLMNFCQueuingApp.pdb
+c:\users\gerard\documents\visual studio 2013\Projects\PLMNFCQueuingApp\PLMNFCQueuingApp\obj\Debug\PLMNFCQueuingApp.Form1.resources
+c:\users\gerard\documents\visual studio 2013\Projects\PLMNFCQueuingApp\PLMNFCQueuingApp\obj\Debug\PLMNFCQueuingApp.Properties.Resources.resources
+c:\users\gerard\documents\visual studio 2013\Projects\PLMNFCQueuingApp\PLMNFCQueuingApp\obj\Debug\PLMNFCQueuingApp.csproj.GenerateResource.Cache
+c:\users\gerard\documents\visual studio 2013\Projects\PLMNFCQueuingApp\PLMNFCQueuingApp\obj\Debug\PLMNFCQueuingApp.exe
+c:\users\gerard\documents\visual studio 2013\Projects\PLMNFCQueuingApp\PLMNFCQueuingApp\obj\Debug\PLMNFCQueuingApp.pdb
+C:\GitHub\Repositories\PLMNFCQueuingApp\PLMNFCQueuingApp\bin\Debug\PLMNFCQueuingApp.exe.config
+C:\GitHub\Repositories\PLMNFCQueuingApp\PLMNFCQueuingApp\obj\Debug\PLMNFCQueuingApp.exe
+C:\GitHub\Repositories\PLMNFCQueuingApp\PLMNFCQueuingApp\obj\Debug\PLMNFCQueuingApp.pdb
